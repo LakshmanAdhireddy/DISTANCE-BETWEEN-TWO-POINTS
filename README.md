@@ -28,8 +28,6 @@ dist=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(dist))
 ~~~
   
-
-
 ### OUTPUT:
 ![Screenshot (13)](https://user-images.githubusercontent.com/118707265/211201266-2e8346cf-8371-4c0a-89c5-7a3d32205388.png)
 
